@@ -6,7 +6,7 @@
 </p>
 
 ## Introduction  
-Olist is a Brazilian e-commerce integrator that connects small businesses to marketplaces and handles logistics. By analyzing Olist’s public dataset, we can assess logistics performance, order delivery, freight costs, and customer satisfaction — critical factors for e-commerce efficiency and competitiveness.
+Olist is a Brazilian e-commerce integrator that connects small businesses to marketplaces and handles logistics. By analyzing Olist’s public dataset, we can assess logistics performance, order delivery, freight costs, and customer satisfaction; critical factors for e-commerce efficiency and competitiveness.
 
 ## Scenario  
 The client , a growing e-commerce platform , requested a comprehensive logistics performance analysis to evaluate the efficiency of its current delivery partner. The goal is to identify key factors impacting delivery delays, shipping costs, and fulfillment times, to support renewal decisions and optimize logistics operations statement.
